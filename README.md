@@ -26,25 +26,8 @@ Learn tree-based classification using Decision Trees and Random Forests, evaluat
 
 ## Evaluation:
 
-| Model          | Accuracy |
-|----------------|----------|
-| Decision Tree  | X.XX     |
-| Random Forest  | X.XX     |
-
 - Random Forest performed better in generalization
 - Important features were identified via bar plot
-
----
-
-## Interview Questions:
-
-| Concept | Explanation |
-|--------|-------------|
-| Entropy | Measure of impurity in decision tree splits |
-| Info Gain | Reduction in entropy after a split |
-| Overfitting | When model memorizes training data, not generalizing |
-| Bagging | Training multiple models on random subsets |
-| Feature Importance | How much a feature helps decision-making |
 
 ---
 
